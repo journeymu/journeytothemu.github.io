@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name: "dr. Muthia Fadhilah"
-  avatar: "/assets/images/bio-photo.jpg"  # upload foto nanti
+  avatar: "docs/assets/images/bitmoji.png"  # upload foto nanti
   bio: "Medical Doctor sharing health insights, family travels, and life in Denmark 🇩🇰"
   location: "Copenhagen, Denmark"
   email: # optional
