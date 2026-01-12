@@ -1,5 +1,5 @@
 ---
-permalink: /tentang/
+permalink: /bio/
 title: "Tentang Mumu"
 layout: single
 author_profile: true
