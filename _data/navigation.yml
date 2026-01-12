@@ -1,14 +1,14 @@
 # Main Navigation
 main:
-  - title: "Home"
+  - title: "Beranda"
     url: /
-  - title: "About"
-    url: /about/
+  - title: "Bio"
+    url: /bio/
   - title: "Blog"
     url: /blog/
-  - title: "Webinars"
-    url: /webinars/
-  - title: "Gallery"
-    url: /gallery/
-  - title: "Connect"
-    url: /connect/
+  - title: "Webinar"
+    url: /webinar/
+  - title: "Galeri"
+    url: /galeri/
+  - title: "Kontak"
+    url: /kontak/
