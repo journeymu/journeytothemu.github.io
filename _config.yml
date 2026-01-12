@@ -16,6 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "id-ID"
+lang                     : "id"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Journey to the Mu"
 title_separator          : "|"
@@ -87,6 +88,7 @@ bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
+tagline                  : "Tips Kesehatan, Cerita Traveling, dan Kehidupan di Denmark"
 
 # Social Sharing
 twitter:
@@ -114,8 +116,8 @@ analytics:
 author:
   name: "dr. Muthia Fadhilah"
   avatar: "/assets/images/bitmoji.png"  # upload foto nanti
-  bio: "Medical Doctor sharing health insights, family travels, and life in Denmark 🇩🇰"
-  location: "Copenhagen, Denmark"
+  bio: "Dokter yang berbagi tips kesehatan, cerita traveling keluarga, dan kehidupan di Denmark 🇩🇰"
+  location: "Kopenhagen, Denmark"
   email: # optional
   links:
     - label: "Email"
