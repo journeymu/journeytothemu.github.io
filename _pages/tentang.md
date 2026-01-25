@@ -4,7 +4,7 @@ title: "Tentang Mumu"
 layout: single
 author_profile: true
 header:
-  image: /assets/images/banner.jpg
+  image: /assets/images/header-home.png
 ---
 
 ## Halo! Kenalan yuk 👋
