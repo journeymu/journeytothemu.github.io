@@ -319,6 +319,8 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
+      classes: wide
   # _pages
   - scope:
       path: "_pages"
@@ -326,6 +328,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
   # _webinars
   - scope:
       path: ""
@@ -334,6 +337,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      classes: wide
 
 # Collections
 collections:
