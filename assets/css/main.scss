@@ -7,3 +7,31 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// Reduce line spacing
+.page__content {
+  p {
+    margin: 0 0 0.8em; // Default: 1.3em, kita kurangi
+    line-height: 1.6; // Default: 1.5, kita adjust
+  }
+
+  // Spacing untuk lists
+  ul, ol {
+    margin: 0 0 1em; // Kurangi spacing
+    
+    li {
+      margin-bottom: 0.3em; // Default: 0.5em
+    }
+  }
+
+  // Spacing antar paragraf
+  p + p {
+    margin-top: 0.5em; // Kurangi jarak antar paragraph
+  }
+
+  // Heading spacing
+  h2, h3, h4 {
+    margin-top: 1.5em; // Kurangi dari default 2em
+    margin-bottom: 0.8em; // Kurangi dari default 1em
+  }
+}
